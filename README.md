@@ -1,5 +1,5 @@
 # Hello, I am Anoj 👋
-🌱 I’m currently a **Full-Stack Web and App Development Student** at  [WBS Coding School](https://www.wbscodingschool.com/). <br><br>🤝 I’m looking to collaborate with other developers.<br><br>💬 After **6 years as Project Manager** in a corporate communication agency in Colombo, Sri Lanka and **1 year as Team Lead** in Berlin, Germany, I am looking to bring my skills into the world of Web and App Development. 
+🌱 I am a recently graduated **Full-Stack Web and App Developer** looking for an opportunity. <br><br>🤝 I’m looking to collaborate with other developers.<br><br>💬 After **6 years as Project Manager** in a corporate communication agency in Colombo, Sri Lanka and **1 year as Team Lead** in Berlin, Germany, I am looking to bring my skills into the world of Web and App Development. 
 <br>
 <br>
 
