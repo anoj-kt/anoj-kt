@@ -1,5 +1,6 @@
 # Hello, I am Anoj 👋
-🌱 I am a recently graduated **Full-Stack Web and App Developer** looking for an opportunity. <br><br>🤝 I’m looking to collaborate with other developers.<br><br>💬 After **6 years as Project Manager** in a corporate communication agency in Colombo, Sri Lanka and **1 year as Team Lead** in Berlin, Germany, I am looking to bring my skills into the world of Web and App Development. 
+🌱 I am a **Full-Stack Web and App Developer** based in Berlin, Germany and looking for an opportunity. <br><br>🤝 I’m also looking to collaborate with other developers.<br><br>
+🌐 [anojkrishna.com](https://anojkrishna.com)
 <br>
 <br>
 
@@ -12,7 +13,9 @@
 
 ## Tech stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -31,6 +34,13 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 <br>
 <br>
+
+## Recent projects
+**Outfitz** (React | Redux | SASS | CSS-in-JS | Firebase)<br/>
+[See live](https://outfitz.netlify.app) | [See code](https://github.com/anoj-kt/outfitz)
+
+**Homely** (React | Leaflet JS | Firebase)<br/>
+[See live](https://homely-demo.netlify.app) | [See code](https://github.com/anoj-kt/homely)
 
 ## My GitHub stats
 <!--
