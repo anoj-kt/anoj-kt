@@ -36,12 +36,12 @@
 <br>
 
 ## Recent projects
-#### Outfitz
+### 🚀 Outfitz
 An E-commerce web application for a clothing retailer <br/>
 Built with: **React | Redux | SASS | CSS-in-JS | Firebase** <br/>
 [See live](https://outfitz.netlify.app) | [See code](https://github.com/anoj-kt/outfitz)
 
-#### Homely
+### 🚀 Homely
 A platform to find or list properties for rent or sale <br/>
 Built with: **React | CSS | Leaflet JS | Firebase** <br/>
 [See live](https://homely-demo.netlify.app) | [See code](https://github.com/anoj-kt/homely)
