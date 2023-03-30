@@ -1,5 +1,6 @@
 # Hello, I am Anoj 👋
-🌱 I am a **Full-Stack Web and App Developer** based in Berlin, Germany and looking for an opportunity. <br><br>🤝 I’m also looking to collaborate with other developers.<br><br>
+🌱 I am a **Full-Stack Web Developer / Instructor** at [WBS Coding School](https://www.wbscodingschool.com/) based in Berlin, Germany. <br><br>
+🤝 I’m also looking to collaborate with other developers.<br><br>
 🌐 [anojkrishna.com](https://anojkrishna.com)
 <br>
 <br>
